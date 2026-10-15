@@ -1,0 +1,14 @@
+/*****************************************************************************
+TITLE: Claims																																
+AUTHOR: Anurag Nath (2301CS07)
+Declaration of Authorship
+This txt file, claims.txt, is part of the assignment of CS321 - CS322 at the 
+department of Computer Science and Engg, IIT Patna . 
+*****************************************************************************/
+
+Files:
+==========
+*All the files I submitted, emulator.cpp and claims_emu.txt, have my name and student id at the start, along with a declaration of 
+authorship.
+
+I have tested all the given test cases as well as well as bubble sort and they compiled successfully according to the functionalities described.

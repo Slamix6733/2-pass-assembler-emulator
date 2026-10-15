@@ -1,0 +1,91 @@
+/*****************************************************************************
+TITLE: Claims																																
+AUTHOR: Anurag Nath (2301CS07)
+Declaration of Authorship
+This txt file, claims.txt, is part of the assignment of CS2102 at the 
+department of Computer Science and Engg, IIT Patna . 
+*****************************************************************************/
+
+Files:
+==========
+All the files that I am submitting ( assembler.cpp and claims_asm.txt), have my name and student roll number at the start, along with a declaration of authorship.
+
+The evidence for Assembler including the output files from the four test examples given (test1 to test4) and bubblesort has also been uploaded. 
+They are test1(3 output files), test2(1 output file), test3(3 output files), test4(3 output files) and Bubble_Sort(3 output files).
+
+I have also uploaded four additional test files and their corresponding output as evidence. 
+
+All the test files have been tested and work properly. 
+
+
+
+
+
+=============================
+Testing:
+=============================
+
+1. The assembler:
+
+I have tested  nine examples(4 test files and bubblesort and 4 additional test cases) shown as bellow. 
+The errors only occurred in the file test2.asm and the program immediately stopped and all errors were put in .log files. 
+
+The others were tested without any errors detected and produced three output files, listing file, 
+error log file and machine readable object file, for each example.
+
+1)
+#Input: test1.asm
+#Output: 
+a. test1.lst 
+b. test1.log (without any error messages)
+c. test1.o
+
+2)
+#Input: test2.asm
+#Output: 
+a. test2.log (with error messages in log file)
+
+
+3)
+#Input:asm test3.asm
+#Output: 
+a. test3.lst 
+b. test3.log (without any error messages)
+c. test3.o
+
+4)
+#Input: test4.asm
+#Output: 
+a. test4.lst 
+b. test4.log (without any error messages)
+c. test4.o
+
+5)
+#Input: MyBubbleSort.asm
+#Output: 
+a. MyBubbleSort.lst 
+b. MyBubbleSort.log (without any error messages)
+c. MyBubbleSort.o
+
+6) #Input: add.asm
+#Output:
+a. add.lst
+b. add.log
+c. add.o
+
+7) # Input: array_sum.asm
+#Output:
+a. array_sum.lst
+b. array_sum.log
+c. array_sum.o
+
+8) #Input: area.asm
+#Output:
+a. area.lst
+b. area.log
+c. area.o
+
+9) #input: branch.asm
+a.branch.lst
+b. branch.log
+c.branch.o

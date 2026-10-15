@@ -1,0 +1,8 @@
+Line_no. 4 ERROR: Label name in 4 is already used.
+Line_no. 5 ERROR: No such label
+Line_no. 7 ERROR: Invalid Format
+Line_no. 8 ERROR: Unexpected operand
+Line_no. 9 ERROR: Extra on end of line
+Line_no. 10 ERROR: Invalid name for a label
+Line_no. 11 ERROR: Bogus Mnemonic
+Line_no. 12 ERROR: Bogus Mnemonic

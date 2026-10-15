@@ -1,0 +1,19 @@
+ldc 00 value
+adc 01 value
+ldl 02 offset 
+stl 03 offset 
+ldnl 04 offset
+stnl 05 offset 
+add 06 
+sub 07 
+shl 08
+shr 09 
+adj 0a value 
+a2sp 0b
+sp2a 0c 
+call 0d offset
+return 0e 
+brz 0f offset 
+brlz 10 offset 
+br 11 offset 
+HALT 12
